@@ -1,6 +1,6 @@
 # Docker s3cmd
 
-Simple dockerfile with s3cmd as entrypoint and `AWS_KEY` and `AWS_SECRET` as ENV variables.
+Simple Docker container with s3cmd as entrypoint and `AWS_KEY` and `AWS_SECRET` as ENV variables.
 
 ## Use
 
